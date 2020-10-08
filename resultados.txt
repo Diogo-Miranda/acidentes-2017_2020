@@ -1,0 +1,52 @@
+
+======== Dados do ano 2017 ==========
+
+Quantidade de casos por mes :
+Jan	Fev	Mar	Abr	Maio	Jun	Jul	Ago
+18088	16327	16589	17924	17135	17083	17247	15848
+
+Quantidade de casos médias no ano 2017
+17030.125
+
+Quantidade de casos médios por dia da semana: 
+Seg-Qui	Sex-Dom 
+17271		22385
+
+======== Dados do ano 2018 ==========
+
+Quantidade de casos por mes :
+Jan	Fev	Mar	Abr	Maio	Jun	Jul	Ago
+16662	14047	15110	13230	11489	12870	13618	12776
+
+Quantidade de casos médias no ano 2018
+13725.25
+
+Quantidade de casos médios por dia da semana: 
+Seg-Qui	Sex-Dom 
+14082		17824
+
+======== Dados do ano 2019 ==========
+
+Quantidade de casos por mes :
+Jan	Fev	Mar	Abr	Maio	Jun	Jul	Ago
+13111	11799	13568	12815	12795	13411	14331	13421
+
+Quantidade de casos médias no ano 2019
+13156.375
+
+Quantidade de casos médios por dia da semana: 
+Seg-Qui	Sex-Dom 
+13353		17279
+
+======== Dados do ano 2020 ==========
+
+Quantidade de casos por mes :
+Jan	Fev	Mar	Abr	Maio	Jun	Jul	Ago
+14066	13182	10763	8375	10055	10427	11595	12803
+
+Quantidade de casos médias no ano 2020
+11408.25
+
+Quantidade de casos médios por dia da semana: 
+Seg-Qui	Sex-Dom 
+11594		14963
